@@ -1,1 +1,6 @@
 DOMAIN-SUFFIX,hinet.net
+
+IP-CIDR,1.174.3.41/32,no-resolve
+IP-CIDR,101.101.101.101/32,no-resolve
+IP-CIDR,101.102.103.104/32,no-resolve
+IP-CIDR,122.117.187.15/32,no-resolve
