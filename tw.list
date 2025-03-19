@@ -721,6 +721,8 @@ DOMAIN-SUFFIX,dns1.1.com
 DOMAIN-SUFFIX,dns2.1.com
 IP-CIDR,1.1.1.1/32,no-resolve
 IP-CIDR,1.1.1.2/32,no-resolve
+IP-CIDR,101.102.103.104/32,no-resolve
+IP-CIDR,101.101.101.101/32,no-resolve
 IP-CIDR,168.95.1.1/32,no-resolve
 IP-CIDR,168.95.192.11/32,no-resolve
 IP-CIDR,168.95.1.11/32,no-resolve
