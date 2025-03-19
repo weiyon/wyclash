@@ -1,6 +1,9 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,hinet
 # 台湾DNS
+DOMAIN-SUFFIX,com.tw
+DOMAIN-SUFFIX,net.tw
+DOMAIN-SUFFIX,org.tw
 DOMAIN-SUFFIX,dns.hinet.net
 DOMAIN-SUFFIX,hntp1.hinet.net
 DOMAIN-SUFFIX,twnic-public-dns.twnic.tw
