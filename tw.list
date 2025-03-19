@@ -1,19 +1,3 @@
-# DOMAIN-SUFFIX,com.tw
-# DOMAIN-SUFFIX,edu.tw
-# DOMAIN-SUFFIX,hinet.net
-# DOMAIN-SUFFIX,net.tw
-# DOMAIN-SUFFIX,org.tw
-# DOMAIN-SUFFIX,idv.tw
-# DOMAIN-SUFFIX,kbtelecom.net
-# DOMAIN-SUFFIX,fairay.com
-# DOMAIN-SUFFIX,inet.tw
-# DOMAIN-SUFFIX,fetnet.net
 # 域名关键字匹配
 DOMAIN-KEYWORD,hinet
-# DNS
-# DOMAIN-SUFFIX,dns.hinet.net
-# DOMAIN-SUFFIX,dns.why3s.net
-# DOMAIN-SUFFIX,dns1.1.com
-# DOMAIN-SUFFIX,dns2.1.com
-IP-CIDR,101.101.101.101/32,no-resolve
-IP-CIDR,101.102.103.104/32,no-resolve
+
