@@ -8,6 +8,7 @@ DOMAIN-KEYWORD,ofiii
 DOMAIN-SUFFIX,cdnstatic.svc.litv.tv
 # 台湾DNS
 DOMAIN-SUFFIX,dns.hinet.net
+DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,hntp1.hinet.net
 DOMAIN-SUFFIX,twnic-public-dns.twnic.tw
 IP-CIDR,8.8.8.8/32,no-resolve
