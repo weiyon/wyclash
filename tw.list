@@ -1,6 +1,5 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,hinet
-DOMAIN-KEYWORD,akamaized
 DOMAIN-KEYWORD,ofiii
 DOMAIN-SUFFIX,cdnstatic.svc.litv.tv
 DOMAIN-SUFFIX,akamaized.net
@@ -12,7 +11,7 @@ DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,dns.hinet.net
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,hntp1.hinet.net
-DOMAIN-SUFFIX,twnic-public-dns.twnic.tw
+DOMAIN,twnic-public-dns.twnic.tw
 IP-CIDR,168.95.1.1/32,no-resolve
 IP-CIDR,168.95.192.1/32,no-resolve
 IP-CIDR,101.101.101.101/32,no-resolve
