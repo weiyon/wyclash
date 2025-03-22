@@ -16,8 +16,7 @@ DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
-DOMAIN-SUFFIX,vip-tptv.xyz
-DOMAIN-SUFFIX,cdn.com.mp
+
 
 # 其他网站
 DOMAIN-SUFFIX,polymarket.com
@@ -64,6 +63,8 @@ DOMAIN-SUFFIX,fanmingming.com
 DOMAIN-SUFFIX,fanmingming.cn
 DOMAIN-SUFFIX,vip-tptv.xyz
 DOMAIN-SUFFIX,mytvsuper.xyz
+DOMAIN-SUFFIX,vip-tptv.xyz
+DOMAIN-SUFFIX,cdn.com.mp
 
 DOMAIN-SUFFIX,hlive.io
 DOMAIN-SUFFIX,ndmdhs.com
