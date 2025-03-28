@@ -1,4 +1,5 @@
 # 域名关键字匹配
+DOMAIN-SUFFIX,cdn.hinet.net
 DOMAIN-KEYWORD,hinet
 DOMAIN-KEYWORD,ofiii
 DOMAIN-SUFFIX,cdnstatic.svc.litv.tv
@@ -7,6 +8,7 @@ DOMAIN-SUFFIX,ofiii.com
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,litv.tv
+.cdn.hinet.net
 # 台湾DNS
 DOMAIN-SUFFIX,dns.hinet.net
 DOMAIN-SUFFIX,dns.google
