@@ -1,4 +1,11 @@
-# 域名关键字匹配
+# DOMAIN,ntdofifreepc.akamaized.net
+# DOMAIN,ntdofifreepocpc.akamaized.net
+# DOMAIN,ofissaifreepc.akamaized.net
+# DOMAIN-SUFFIX,litv.tv
+# DOMAIN-SUFFIX,ofiii.com
+# DOMAIN-SUFFIX,4gtv.tv
+# DOMAIN-SUFFIX,cdn.hinet.net
+# DOMAIN-SUFFIX,ott.hinet.net
 DOMAIN-SUFFIX,cdn.hinet.net
 DOMAIN-KEYWORD,hinet
 DOMAIN-KEYWORD,ofiii
@@ -11,7 +18,7 @@ DOMAIN-SUFFIX,litv.tv
 .cdn.hinet.net
 # 台湾DNS
 DOMAIN-SUFFIX,dns.hinet.net
-DOMAIN-SUFFIX,dns.google
+# DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,hntp1.hinet.net
 DOMAIN,twnic-public-dns.twnic.tw
 IP-CIDR,168.95.1.1/32,no-resolve
