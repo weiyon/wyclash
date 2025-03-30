@@ -15,7 +15,6 @@ DOMAIN-SUFFIX,ofiii.com
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,litv.tv
-.cdn.hinet.net
 # 台湾DNS
 DOMAIN-SUFFIX,dns.hinet.net
 # DOMAIN-SUFFIX,dns.google
