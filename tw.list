@@ -7,14 +7,16 @@
 # DOMAIN-SUFFIX,cdn.hinet.net
 # DOMAIN-SUFFIX,ott.hinet.net
 DOMAIN-SUFFIX,cdn.hinet.net
-DOMAIN-KEYWORD,hinet
-DOMAIN-KEYWORD,ofiii
 DOMAIN-SUFFIX,cdnstatic.svc.litv.tv
-# DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,ofiii.com
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,litv.tv
+DOMAIN-KEYWORD,hinet
+DOMAIN-KEYWORD,ofiii
+DOMAIN-KEYWORD,4gtv
+DOMAIN-KEYWORD,litv
 # 台湾DNS
 DOMAIN-SUFFIX,dns.hinet.net
 # DOMAIN-SUFFIX,dns.google
