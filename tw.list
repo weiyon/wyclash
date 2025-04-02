@@ -17,10 +17,10 @@ DOMAIN-KEYWORD,hinet
 DOMAIN-KEYWORD,ofiii
 # 台湾DNS
 DOMAIN-SUFFIX,dns.hinet.net
-# DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,hntp1.hinet.net
 DOMAIN,twnic-public-dns.twnic.tw
 IP-CIDR,168.95.1.1/32,no-resolve
 IP-CIDR,168.95.192.1/32,no-resolve
 IP-CIDR,101.101.101.101/32,no-resolve
 # IP-CIDR,85.237.207.219/32,no-resolve
+GEOIP,TW
