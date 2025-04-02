@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,akamaized.net
 DOMAIN,ntd-tgc.cdn.hinet.net
 DOMAIN,ntdofifreepc.akamaized.net
 DOMAIN,ntdofifreepocpc.akamaized.net
@@ -9,13 +11,8 @@ DOMAIN-SUFFIX,cdn.hinet.net
 DOMAIN-SUFFIX,ott.hinet.net
 DOMAIN-SUFFIX,cdn.hinet.net
 DOMAIN-SUFFIX,cdnstatic.svc.litv.tv
-DOMAIN-SUFFIX,akamaized.net
-DOMAIN-SUFFIX,ofiii.com
-DOMAIN-SUFFIX,hinet.net
-DOMAIN-SUFFIX,4gtv.tv
-DOMAIN-SUFFIX,litv.tv
-DOMAIN-KEYWORD,hinet
-DOMAIN-KEYWORD,ofiii
+
+
 # 台湾DNS
 DOMAIN-SUFFIX,dns.hinet.net
 DOMAIN-SUFFIX,hntp1.hinet.net
