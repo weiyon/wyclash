@@ -1,19 +1,17 @@
 
-DOMAIN,bahamut.akamaized.net
-DOMAIN,ntd-tgc.cdn.hinet.net
-DOMAIN,ntdofifreepc.akamaized.net
-DOMAIN,ntdofifreepocpc.akamaized.net
-DOMAIN,ofissaifreepc.akamaized.net
-DOMAIN,cdnstatic.svc.litv.tv
-DOMAIN-SUFFIX,myvideo.net.tw
+# DOMAIN,bahamut.akamaized.net
+# DOMAIN,ntd-tgc.cdn.hinet.net
+# DOMAIN,ntdofifreepc.akamaized.net
+# DOMAIN,ntdofifreepocpc.akamaized.net
+# DOMAIN,ofissaifreepc.akamaized.net
+# DOMAIN,cdnstatic.svc.litv.tv
 DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,cdn.hinet.net
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,taiwanmedia.org
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,ofiii.com
 DOMAIN-SUFFIX,4gtv.tv
-DOMAIN-SUFFIX,gamer.com.tw
-DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,digicert.com
@@ -29,8 +27,6 @@ DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,kk.stream
-DOMAIN-SUFFIX,4gtv.tv
-DOMAIN-SUFFIX,cdn.hinet.net
 DOMAIN-SUFFIX,chocotv.com.tw
 DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
@@ -46,4 +42,4 @@ IP-CIDR,168.95.192.1/32,no-resolve
 IP-CIDR,203.66.35.35/32,no-resolve
 # IP-CIDR,85.237.206.34/32,no-resolve
 IP-CIDR,101.101.101.101/32,no-resolve
-# GEOIP,TW
+geoip:tw
