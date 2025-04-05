@@ -6,10 +6,9 @@
 # DOMAIN,ofissaifreepc.akamaized.net
 # DOMAIN,cdnstatic.svc.litv.tv
 DOMAIN-SUFFIX,hinet.net
-DOMAIN-SUFFIX,cdn.hinet.net
+# DOMAIN-SUFFIX,cdn.hinet.net
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,taiwanmedia.org
-DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,ofiii.com
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,fbcdn.net
@@ -32,7 +31,6 @@ DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,litv.tv
-DOMAIN-SUFFIX,LiTV.tv
 # 台湾DNS
 DOMAIN,dns.hinet.net
 DOMAIN,hntp1.hinet.net
