@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,catchplay.com.tw
+DOMAIN,catchplay.com.tw
 DOMAIN-SUFFIX,catchplay.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,kktv.com.tw
@@ -41,4 +41,4 @@ IP-CIDR,203.66.35.35/32,no-resolve
 # IP-CIDR,172.18.10.3/32,no-resolve
 # IP-CIDR,85.237.206.34/32,no-resolve
 IP-CIDR,101.101.101.101/32,no-resolve
-geoip:tw
+
