@@ -10,13 +10,14 @@ DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,4.ipw.cn
 DOMAIN-SUFFIX,ip.3322.net
 DOMAIN-SUFFIX,aktv_stream1.m16tv.cfd
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,m16tv
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
-
+IP-CIDR,172.17.0.4/32,no-resolve
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.pub
