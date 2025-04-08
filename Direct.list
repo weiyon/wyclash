@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,4.ipw.cn
 DOMAIN-SUFFIX,ip.3322.net
-DOMAIN-SUFFIX,aktv_stream1.m16tv.cfd
+DOMAIN,aktv_stream1.m16tv.cfd
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -30,9 +30,6 @@ IP-CIDR,223.6.6.6/32,no-resolve
 # IP-CIDR,85.237.206.34/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
-
-DOMAIN,itv.vip-tptv.xyz
-DOMAIN-SUFFIX,vip-tptv.xyz
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
