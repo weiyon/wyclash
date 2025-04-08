@@ -1,6 +1,6 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-DOMAIN,itv.vip-tptv.xyz
-DOMAIN-SUFFIX,vip-tptv.xyz
+# DOMAIN,itv.vip-tptv.xyz
+# DOMAIN-SUFFIX,vip-tptv.xyz
 
 # MyList
 # 域名后缀匹配
@@ -17,19 +17,6 @@ DOMAIN,aktv_stream1.m16tv.cfd
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,m16tv
 
-# IP段匹配
-IP-CIDR,219.146.1.66/32,no-resolve
-IP-CIDR,172.17.0.4/32,no-resolve
-# 国内DNS
-DOMAIN-SUFFIX,dns.alidns.com
-DOMAIN-SUFFIX,doh.pub
-IP-CIDR,202.103.224.68/32,no-resolve
-IP-CIDR,202.103.225.68/32,no-resolve
-IP-CIDR,223.5.5.5/32,no-resolve
-IP-CIDR,223.6.6.6/32,no-resolve
-# IP-CIDR,85.237.206.34/32,no-resolve
-IP-CIDR,114.114.114.114/32,no-resolve
-IP-CIDR,114.114.115.115/32,no-resolve
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
@@ -590,3 +577,18 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+
+# IP段匹配
+IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,172.17.0.0/16,no-resolve
+IP-CIDR,172.18.0.0/16,no-resolve
+# 国内DNS
+DOMAIN-SUFFIX,dns.alidns.com
+DOMAIN-SUFFIX,doh.pub
+IP-CIDR,202.103.224.68/32,no-resolve
+IP-CIDR,202.103.225.68/32,no-resolve
+IP-CIDR,223.5.5.5/32,no-resolve
+IP-CIDR,223.6.6.6/32,no-resolve
+# IP-CIDR,85.237.206.34/32,no-resolve
+IP-CIDR,114.114.114.114/32,no-resolve
+IP-CIDR,114.114.115.115/32,no-resolve
