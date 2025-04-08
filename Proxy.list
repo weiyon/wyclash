@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,qichiyu.com
 # DOMAIN-SUFFIX,difyai.com
 DOMAIN-SUFFIX,hsy88.org
 DOMAIN-SUFFIX,xn--mes358acgm99l.com
+DOMAIN,istore.istoreos.com
 DOMAIN,hub.docker.com
 DOMAIN,registry-1.docker.io
 DOMAIN,index.docker.io
@@ -62,6 +63,7 @@ DOMAIN-SUFFIX,capcom.com
 DOMAIN-SUFFIX,fcdn.sk
 DOMAIN-SUFFIX,kooink.com
 DOMAIN-SUFFIX,nodeseek.com
+DOMAIN,istore.istoreos.com
 
 DOMAIN-SUFFIX,kjfx.cc
 DOMAIN-SUFFIX,docker.com
