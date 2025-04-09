@@ -1,8 +1,7 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-DOMAIN-SUFFIX,itv.cmvideo.cn
-
-# MyList
+DOMAIN,aktv_stream1.m16tv.cfd
 # 域名后缀匹配
+DOMAIN-SUFFIX,itv.cmvideo.cn
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
@@ -10,7 +9,7 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,4.ipw.cn
 DOMAIN-SUFFIX,ip.3322.net
-DOMAIN,aktv_stream1.m16tv.cfd
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
