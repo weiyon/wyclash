@@ -29,8 +29,9 @@ DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,kk.stream
 DOMAIN-SUFFIX,chocotv.com.tw
-DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-KERWORD,4gtv
+DOMAIN-KERWORD,akamaized
+DOMAIN-KERWORD,hinet
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,litv.tv
-
