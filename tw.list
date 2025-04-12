@@ -40,6 +40,6 @@ DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,litv.tv
 spc4.s3.ap-east-1.amazonaws
-IP-CIDR 85.237.206.34/32
-203.66.32.234/32
+IP-CIDR,85.237.206.34/32,no-resolve
+203.66.32.234/32,no-resolve
 
