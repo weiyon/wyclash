@@ -3,3 +3,8 @@ DOMAIN-SUFFIX,vip-tptv.xyz
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 
+IP-CIDR,172.67.132.181/32,no-resolve
+IP-CIDR,104.21.18.71/32,no-resolve
+
+IP-CIDR,172.67.0.0/16,no-resolve
+IP-CIDR,104.21.0.0/16,no-resolve
