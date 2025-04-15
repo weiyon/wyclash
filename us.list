@@ -12,3 +12,4 @@ IP-CIDR,104.21.0.0/16,no-resolve
 IP-CIDR,14.6.0.0/16,no-resolve
 IP-CIDR,84.16.0.0/16,no-resolve
 IP-CIDR,149.28.0.0/16,no-resolve
+IP-CIDR,193.182.0.0/16,no-resolve
