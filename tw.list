@@ -49,6 +49,7 @@ DOMAIN-KEYWORD,hinet
 
 IP-CIDR,85.237.206.34/32,no-resolve
 IP-CIDR,203.66.30.0/24,no-resolve
+IP-CIDR,104.22.0.0/16,no-resolve
 
 
 
