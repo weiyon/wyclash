@@ -1,7 +1,7 @@
-DOMAIN,spc4.s3.ap-east-1.amazonaws
-DOMAIN,ntd-tgc.cdn.hinet.net
-DOMAIN,ofissaifreepc.akamaized.net
-DOMAIN,4gtvfree-cds.cdn.hinet.net
+# DOMAIN,spc4.s3.ap-east-1.amazonaws
+# DOMAIN,ntd-tgc.cdn.hinet.net
+# DOMAIN,ofissaifreepc.akamaized.net
+# DOMAIN,4gtvfree-cds.cdn.hinet.net
 # DOMAIN,6bsub.zhunchuanpb.com
 # DOMAIN,bahamut.akamaized.net
 # DOMAIN,ntd-tgc.cdn.hinet.net
@@ -41,6 +41,11 @@ DOMAIN-KERWORD,amazonaws
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,litv.tv
+DOMAIN-SUFFIX,litv.tv
+DOMAIN-KEYWORD,litv
+DOMAIN-KEYWORD,4gtv
+DOMAIN-KEYWORD,akamaized
+DOMAIN-KEYWORD,hinet
 
 IP-CIDR,85.237.206.34/32,no-resolve
 IP-CIDR,203.66.30.0/24,no-resolve
