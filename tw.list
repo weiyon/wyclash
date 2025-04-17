@@ -13,7 +13,6 @@
 # DOMAIN,cdnstatic.svc.litv.tv
 # DOMAIN-SUFFIX,jmssub.net
 DOMAIN-SUFFIX,vip-tptv.xyz
-# DOMAIN-SUFFIX,gh-proxy.com
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,livednow.com
