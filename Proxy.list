@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 
+DOMAIN,istore.istoreos.com
 # DOMAIN,api-ipv4.ip.sb
 # 其他网站
 DOMAIN,smart.pendy.dpdns.org
@@ -62,16 +63,13 @@ DOMAIN-SUFFIX,capcom.com
 DOMAIN-SUFFIX,fcdn.sk
 DOMAIN-SUFFIX,kooink.com
 DOMAIN-SUFFIX,nodeseek.com
-DOMAIN,istore.istoreos.com
 
 DOMAIN-SUFFIX,kjfx.cc
-DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,hkdvb.com
 DOMAIN-SUFFIX,fanmingming.com
 DOMAIN-SUFFIX,fanmingming.cn
 # DOMAIN-SUFFIX,vip-tptv.xyz
 DOMAIN-SUFFIX,mytvsuper.xyz
-# DOMAIN-SUFFIX,vip-tptv.xyz
 DOMAIN-SUFFIX,cdn.com.mp
 DOMAIN-SUFFIX,hlive.io
 DOMAIN-SUFFIX,ndmdhs.com
@@ -142,9 +140,9 @@ DOMAIN-KEYWORD,docker
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
-# IP-CIDR,8.26.56.26/32,no-resolve
-# IP-CIDR,64.6.64.6/32,no-resolve
-# IP-CIDR,95.85.95.85/32,no-resolve
+IP-CIDR,8.26.56.26/32,no-resolve
+IP-CIDR,64.6.64.6/32,no-resolve
+IP-CIDR,95.85.95.85/32,no-resolve
 # IP-CIDR,208.67.222.222/32,no-resolve
 # IP-CIDR,208.67.220.220/32,no-resolve
 # IP-CIDR,142.250.0.0/16,no-resolve
