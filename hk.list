@@ -4,5 +4,5 @@ DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,livednow.com
 DOMAIN-SUFFIX,livednow.org
 DOMAIN-SUFFIX,wx.sb
-IP-CIDR,23.56.161.213/32,no-resolve
-IP-CIDR,59.188.10.22/32,no-resolve
+IP-CIDR,23.56.0.0/16,no-resolve
+IP-CIDR,59.188.0.0/16,no-resolve
