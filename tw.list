@@ -1,5 +1,5 @@
 DOMAIN,cdi.ofiii.com
- DOMAIN,smt.cdn6.rr.nu
+DOMAIN,smt.cdn6.rr.nu
 # DOMAIN,spc4.s3.ap-east-1.amazonaws
 # DOMAIN,ntd-tgc.cdn.hinet.net
 # DOMAIN,ofissaifreepc.akamaized.net
@@ -35,18 +35,17 @@ DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,kk.stream
 DOMAIN-SUFFIX,chocotv.com.tw
-DOMAIN-KERWORD,4gtv
-DOMAIN-KERWORD,akamaized
-DOMAIN-KERWORD,hinet
-DOMAIN-KERWORD,amazonaws
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,linetv.tw
-DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-KEYWORD,litv
 DOMAIN-KEYWORD,4gtv
 DOMAIN-KEYWORD,akamaized
 DOMAIN-KEYWORD,hinet
+DOMAIN-KERWORD,4gtv
+DOMAIN-KERWORD,akamaized
+DOMAIN-KERWORD,hinet
+DOMAIN-KERWORD,amazonaws
 
 
 IP-CIDR,168.95.0.0/16,no-resolve
