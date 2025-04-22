@@ -1,5 +1,8 @@
 DOMAIN,smart.pendy.dpdns.org
 DOMAIN-SUFFIX,aktv.space
 IP-CIDR,162.159.0.0/16,no-resolve
+IP-CIDR,162.159.0.0/16,no-resolve
+IP-CIDR,43.153.0.0/16,no-resolve
+IP-CIDR,43.159.0.0/16,no-resolve
 # DOMAIN,itv.vip-tptv.xyz
 # DOMAIN-SUFFIX,vip-tptv.xyz
