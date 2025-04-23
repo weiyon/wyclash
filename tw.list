@@ -45,7 +45,7 @@ DOMAIN-KEYWORD,hinet
 DOMAIN-KERWORD,amazonaws
 
 
-IP-CIDR,203.66.30.0/24,no-resolve
+
 IP-CIDR,203.66.31.0/24,no-resolve
 IP-CIDR,203.66.32.0/24,no-resolve
 IP-CIDR,203.66.33.0/24,no-resolve
