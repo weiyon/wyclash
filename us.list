@@ -1,6 +1,6 @@
 DOMAIN,smart.pendy.dpdns.org
 IP-CIDR,162.159.0.0/16,no-resolve
 IP-CIDR,43.0.0.0/8,no-resolve
-IP-CIDR,172.111.200.143/32,no-resolve
+IP-CIDR,172.111.0.0/16,no-resolve
 # DOMAIN,itv.vip-tptv.xyz
 # DOMAIN-SUFFIX,vip-tptv.xyz
