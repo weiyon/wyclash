@@ -13,8 +13,6 @@ DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN,istore.istoreos.com
 # DOMAIN,api-ipv4.ip.sb
 # 其他网站
-# DOMAIN,smart.pendy.dpdns.org
-# DOMAIN-SUFFIX,dpdns.org
 DOMAIN,epg.112114.xyz
 DOMAIN-SUFFIX,joeyblog.net
 DOMAIN-SUFFIX,polymarket.com
