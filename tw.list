@@ -53,7 +53,7 @@ IP-CIDR,203.66.34.0/24,no-resolve
 IP-CIDR,203.66.35.0/24,no-resolve
 IP-CIDR,203.66.36.0/24,no-resolve
 # IP-CIDR,108.59.0.0/16,no-resolve
-# IP-CIDR,193.182.0.0/16,no-resolve
+IP-CIDR,193.182.0.0/16,no-resolve
 # IP-CIDR,168.95.0.0/16,no-resolve
 # IP-CIDR,203.66.0.0/16,no-resolve
 # IP-CIDR,104.22.0.0/16,no-resolve
