@@ -41,7 +41,6 @@ DOMAIN-KEYWORD,akamaized
 DOMAIN-KEYWORD,hinet
 DOMAIN-KERWORD,amazonaws
 
-IP-CIDR,8.20.0.0/16,no-resolve
 IP-CIDR,114.25.0.0/16,no-resolve
 IP-CIDR,203.66.0.0/16,no-resolve
 IP-CIDR,108.59.0.0/16,no-resolve
