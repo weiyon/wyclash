@@ -1,1 +1,6 @@
-geosite:adobe-activation
+DOMAIN,adobestats.io
+DOMAIN,vip*.adobe.com
+DOMAIN,wip*.adobe.com
+
+geosite:adobe,
+geosite:adobe-activation,
