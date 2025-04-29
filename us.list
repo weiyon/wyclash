@@ -1,11 +1,13 @@
+DOMAIN.mytvsuper.COM
 DOMAIN.mytvsuper.xyz
 DOMAIN,img.omnitab.link
-DOMAIN,smart.pendy.dpdns.org
+# DOMAIN,smart.pendy.dpdns.org
 DOMAIN,cdn.shopimgs.com
 DOMAIN,smt.cdn6.rr.nu
 DOMAIN-SUFFIX,rr.nu
 DOMAIN-SUFFIX,v1.mk
 DOMAIN-SUFFIX,aktv.space
+DOMAIN-KEYWORD,mytvsuper
 IP-CIDR,78.46.0.0/16,no-resolve
 IP-CIDR,194.59.0.0/16,no-resolve
 IP-CIDR,157.240.0.0/16,no-resolve
