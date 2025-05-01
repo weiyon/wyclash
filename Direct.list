@@ -575,3 +575,5 @@ DOMAIN-SUFFIX,zhuihd.com
 # 域名关键字匹配
 # DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,m16tv
+
+IP-CIDR,205.185.125.98/32,no-resolve
