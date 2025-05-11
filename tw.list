@@ -39,7 +39,7 @@ DOMAIN-KEYWORD,hinet
 DOMAIN-KERWORD,amazonaws
 GEOIO,TW
 
-
+IP-CIDR,205.185.125.98/32,no-resolve
 IP-CIDR,114.25.0.0/16,no-resolve
 IP-CIDR,203.66.0.0/16,no-resolve
 IP-CIDR,108.59.0.0/16,no-resolve
