@@ -40,6 +40,8 @@ DOMAIN-KEYWORD,4gtv
 DOMAIN-KEYWORD,akamaized
 DOMAIN-KEYWORD,hinet
 DOMAIN-KERWORD,amazonaws
+GEOIO,TW
+
 
 IP-CIDR,114.25.0.0/16,no-resolve
 IP-CIDR,203.66.0.0/16,no-resolve
