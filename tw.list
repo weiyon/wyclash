@@ -2,7 +2,6 @@ DOMAIN,cdi.ofiii.com
 DOMAIN,spc4.s3.ap-east-1.amazonaws
 DOMAIN,ntd-tgc.cdn.hinet.net
 DOMAIN,ofissaifreepc.akamaized.net
-DOMAIN,4gtvfree-cds.cdn.hinet.net
 DOMAIN,6bsub.zhunchuanpb.com
 DOMAIN,bahamut.akamaized.net
 DOMAIN,ntdofifreepc.akamaized.net
@@ -12,7 +11,6 @@ DOMAIN-SUFFIX,jmssub.net
 DOMAIN-SUFFIX,vip-tptv.xyz
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,hinet.net
-DOMAIN-SUFFIX,livednow.com
 DOMAIN-SUFFIX,ofiii.com
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,taiwanmedia.org
@@ -34,7 +32,6 @@ DOMAIN-SUFFIX,kk.stream
 DOMAIN-SUFFIX,chocotv.com.tw
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,linetv.tw
-DOMAIN-SUFFIX,litv.tv
 DOMAIN-KEYWORD,litv
 DOMAIN-KEYWORD,4gtv
 DOMAIN-KEYWORD,akamaized
