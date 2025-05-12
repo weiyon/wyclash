@@ -32,12 +32,31 @@ DOMAIN-SUFFIX,kk.stream
 DOMAIN-SUFFIX,chocotv.com.tw
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,linetv.tw
+DOMAIN-SUFFIX,setn.com
+DOMAIN-SUFFIX,ctitv.com.tw
+DOMAIN-SUFFIX,ctv.com.tw
+DOMAIN-SUFFIX,ftv.com.tw
+DOMAIN-SUFFIX,ftvnews.com.tw
+DOMAIN-SUFFIX,cts.com.tw
+DOMAIN-SUFFIX,ebc.net.tw
+DOMAIN-SUFFIX,ebcvideo.com
+DOMAIN-SUFFIX,pts.org.tw
+DOMAIN-SUFFIX,ptshd.com
+DOMAIN-SUFFIX,tvbs.com.tw
+DOMAIN-SUFFIX,nexttv.com.tw
+DOMAIN-SUFFIX,gtv.com.tw
+DOMAIN-SUFFIX,ustv.com.tw
+DOMAIN-SUFFIX,ttv.com.tw
+DOMAIN-SUFFIX,hichannel.hinet.net
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,ott.cdn.hinet.net
+DOMAIN-SUFFIX,myvideo.net.tw
 DOMAIN-KEYWORD,litv
 DOMAIN-KEYWORD,4gtv
 DOMAIN-KEYWORD,akamaized
 DOMAIN-KEYWORD,hinet
 DOMAIN-KERWORD,amazonaws
-GEOIO,TW
+GEOIP,TW
 
 
 IP-CIDR,114.25.0.0/16,no-resolve
@@ -51,5 +70,3 @@ IP-CIDR,91.108.0.0/16,no-resolve
 IP-CIDR,101.101.101.101/32,no-resolve
 IP-CIDR,101.102.103.104/32,no-resolve
 IP-CIDR,85.237.206.34/32,no-resolve
-
-
