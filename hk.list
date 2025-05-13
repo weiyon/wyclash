@@ -1,5 +1,14 @@
 DOMAIN,cdn.1678520.xyz
 DOMAIN,tv.iill.top
+DOMAIN-SUFFIX,viu.tv
+DOMAIN-SUFFIX,tvbanywhere.com
+DOMAIN-SUFFIX,rthk.hk
+DOMAIN-SUFFIX,icable.com
+DOMAIN-SUFFIX,hmvod.com.hk
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-KEYWORD,viu
+DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,iill.top
 DOMAIN-SUFFIX,hoy.tv
 DOMAIN-SUFFIX,tvb.com
@@ -8,3 +17,4 @@ DOMAIN-SUFFIX,livednow.com
 DOMAIN-SUFFIX,livednow.org
 DOMAIN-SUFFIX,wx.sb
 DOMAIN-KEYWORD,iill
+
