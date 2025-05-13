@@ -3,9 +3,10 @@
 DOMAIN,tw-ty-line1-4-5.sudatech.store
 DOMAIN,freepao.top
 DOMAIN,smart.pendy.dpdns.org
+DOMAIN,smt.1789.dpdns.org
 DOMAIN,aktv_stream1.m16tv.cfd
-DOMAIN-SUFFIX,gh-proxy.com
 # 域名后缀匹配
+DOMAIN-SUFFIX,gh-proxy.com
 DOMAIN-SUFFIX,itv.cmvideo.cn
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
