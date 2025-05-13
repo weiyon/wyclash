@@ -1,11 +1,12 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 # DOMAIN,itv.vip-tptv.xyz
-DOMAIN,tw-ty-line1-4-5.sudatech.store
+# DOMAIN,tw-ty-line1-4-5.sudatech.store
 DOMAIN,freepao.top
 DOMAIN,smart.pendy.dpdns.org
 DOMAIN,smt.1789.dpdns.org
 DOMAIN,aktv_stream1.m16tv.cfd
 # 域名后缀匹配
+DOMAIN-SUFFIX,sudatech.store
 DOMAIN-SUFFIX,gh-proxy.com
 DOMAIN-SUFFIX,itv.cmvideo.cn
 DOMAIN-SUFFIX,time.windows.com
