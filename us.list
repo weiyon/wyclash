@@ -1,3 +1,4 @@
+
 DOMAIN.mytvsuper.COM
 DOMAIN.mytvsuper.xyz
 DOMAIN,img.omnitab.link
@@ -7,6 +8,7 @@ DOMAIN,smt.cdn6.rr.nu
 DOMAIN-SUFFIX,rr.nu
 DOMAIN-SUFFIX,v1.mk
 DOMAIN-SUFFIX,aktv.space
+DOMAIN-SUFFIX,sudatech.store
 DOMAIN-KEYWORD,mysupertv
 
 IP-CIDR,205.185.125.98/32,no-resolve
